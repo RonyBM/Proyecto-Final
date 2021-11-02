@@ -20,7 +20,7 @@
     <div class="loginbox">
         <img class="avatar" src="../assets/img/user.jpg" alt="Logo del login">
     <h1>Crear Usuario</h1>
-    <form action="login_registar.php" method="POST">
+    <form action="../controladores/login_registar.php" method="POST">
         <!--USERNAME-->
         <label for="username">Nombre de Usuario</label>
         <input class="form-control form-control-sm" type="text" placeholder="Ingrese nombre de usuario" name="usuario" required>
