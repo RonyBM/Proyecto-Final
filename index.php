@@ -19,7 +19,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-light bg-light static-top">
             <div class="container">
-                <a class="navbar-brand" href="index.html">Cotizador Amazon</a>
+                <a class="navbar-brand" href="index.php">Cotizador Amazon</a>
                 <a class="btn btn-primary" href="php/login.php">Login</a>
             </div>
         </nav>
