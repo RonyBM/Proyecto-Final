@@ -8,9 +8,6 @@
     <script src='main.js'></script>
 </head>
 <body>
-    <form action="../php/login_registar.php" method="post">
-
-    </form>
     <!-- Navigation-->
     <nav class="navbar navbar-light bg-light static-top">
         <div class="container">
